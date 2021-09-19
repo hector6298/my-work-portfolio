@@ -13,10 +13,16 @@ Notebook that performs visualizations from multiple variables from yelp fake rev
 
 Development of a Convolutional Neural Network that learns to segment sculpture images.
 
+![image](https://user-images.githubusercontent.com/41920808/133944877-1d862163-5ee7-4b31-8f3d-99248b6ea657.png)
 
-- **Image Classification**: Training and testing of a Convolutional Neural Network for multi-class classification of Pneumonia, COVID-19 and normal chest x-ray images.
 
-- **Object Keypoints Estimation**: CNN that tries to estimate keypoints from a car dataset.
+# Image Classification
+
+Training and testing of a Convolutional Neural Network for multi-class classification of Pneumonia, COVID-19 and normal chest x-ray images.
+
+#Object Keypoints Estimation
+CNN that tries to estimate keypoints from a car dataset.
+
 - **NLP Text Classification**: Text classification using neural networks.
     - Hate speech classification using Transformers.
     - COVID-19 fake news detection using Doc2Vec, manual features and classical ML models.
