@@ -20,7 +20,11 @@ Development of a Convolutional Neural Network that learns to segment sculpture i
 
 Training and testing of a Convolutional Neural Network for multi-class classification of Pneumonia, COVID-19 and normal chest x-ray images.
 
+![image](https://user-images.githubusercontent.com/41920808/133945400-9f1b967b-473a-43b5-ba04-c68456e0cc02.png)
+
+
 # Object Keypoints Estimation
+
 CNN that tries to estimate keypoints from a car dataset.
 
 ![image](https://user-images.githubusercontent.com/41920808/133945086-30c9233a-72b2-4ad7-be9b-f2e2e2503904.png)
