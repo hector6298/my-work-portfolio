@@ -2,11 +2,17 @@
 This is a repository of code samples from past projects, experiments, and so forth.
 This repo contains code about the following subjects:
 
-- **Exploratory Data Analysis**: Performs visualizations from multiple variables from yelp fake reviews dataset, for further feature engineering.
+# Exploratory Data Analysis
+
+Notebook that performs visualizations from multiple variables from yelp fake reviews dataset, for further feature engineering.
+
 ![image](https://user-images.githubusercontent.com/41920808/133944805-1a3856d8-4d35-4afb-a52a-2d9e2efcf964.png)
 
     
-- **Image Segmentation**: Development of a Convolutional Neural Network that learns to segment sculpture images.
+# Image Segmentation
+
+Development of a Convolutional Neural Network that learns to segment sculpture images.
+
 
 - **Image Classification**: Training and testing of a Convolutional Neural Network for multi-class classification of Pneumonia, COVID-19 and normal chest x-ray images.
 
