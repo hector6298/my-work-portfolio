@@ -20,13 +20,27 @@ Development of a Convolutional Neural Network that learns to segment sculpture i
 
 Training and testing of a Convolutional Neural Network for multi-class classification of Pneumonia, COVID-19 and normal chest x-ray images.
 
-#Object Keypoints Estimation
+# Object Keypoints Estimation
 CNN that tries to estimate keypoints from a car dataset.
 
-- **NLP Text Classification**: Text classification using neural networks.
-    - Hate speech classification using Transformers.
-    - COVID-19 fake news detection using Doc2Vec, manual features and classical ML models.
-- **Twitter Spark Streaming**: Development of an streaming application to listen to data from twitter, transform it with spark-streaming and store on a delta lake table
-    - Producer: Python scripts for specification of the objects and the actual script for producer initialization.
-    - Consumer: Scala Scripts for data ingestrion and transformation.
-- **Vision Vanishing Points**: Uses object detection with CNNs and classical image processing algorithms to find lines to compute vanishing points. These vanishing points will be used to estimate horizon line.
+![image](https://user-images.githubusercontent.com/41920808/133945086-30c9233a-72b2-4ad7-be9b-f2e2e2503904.png)
+
+# NLP Text Classification
+
+Text classification using neural networks.
+
+- Hate speech classification using Transformers.
+- COVID-19 fake news detection using Doc2Vec, manual features and classical ML models.
+
+![transformerArch](https://user-images.githubusercontent.com/41920808/133945321-3f50ec56-3937-41a2-9fa0-347c69d8a017.png)
+
+
+# Twitter Spark Streaming
+
+Development of an streaming application to listen to data from twitter, transform it with spark-streaming and store on a delta lake table
+- Producer: Python scripts for specification of the objects and the actual script for producer initialization.
+- Consumer: Scala Scripts for data ingestrion and transformation.
+
+# Vision Vanishing Points
+
+Uses object detection with CNNs and classical image processing algorithms to find lines to compute vanishing points. These vanishing points will be used to estimate horizon line.
