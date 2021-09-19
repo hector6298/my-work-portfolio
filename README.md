@@ -2,6 +2,17 @@
 This is a repository of code samples from past projects, experiments, and so forth.
 This repo contains code about the following subjects:
 
+- Exploratory Data Analysis
+- Computer Vision
+    - Image Segmentation
+    - Image Classification
+    - Keypoint Estimation
+- Natural Language Processing
+    - Text Classification with Transformers
+    - Text Classification with Doc2Vec and feature engineering
+- Streaming Application
+    - Twitter streaming with Apache Spark and Delta Lake
+
 # Exploratory Data Analysis
 
 Notebook that performs visualizations from multiple variables from yelp fake reviews dataset, for further feature engineering.
