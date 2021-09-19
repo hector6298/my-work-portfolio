@@ -45,6 +45,12 @@ Development of an streaming application to listen to data from twitter, transfor
 - Producer: Python scripts for specification of the objects and the actual script for producer initialization.
 - Consumer: Scala Scripts for data ingestrion and transformation.
 
+![image](https://user-images.githubusercontent.com/41920808/133945447-f662f06d-b6da-47ef-b490-e65ad5816f1d.png)
+
+
 # Vision Vanishing Points
 
 Uses object detection with CNNs and classical image processing algorithms to find lines to compute vanishing points. These vanishing points will be used to estimate horizon line.
+
+![image](https://user-images.githubusercontent.com/41920808/133945440-cb3a8d68-6569-45ef-838c-c476e61f98ce.png)
+
