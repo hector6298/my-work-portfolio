@@ -1,28 +1,28 @@
 
 ## Experience 
 
-- 1 year working experience as data scientist/engineer.
-  - Data Gathering, cleaning, feature extraction and storage (text, image, structured data)
+### 1 year working experience as data scientist/engineer.
+- Data Gathering, cleaning, feature extraction and storage (text, image, structured data)
     - Frameworks: Pandas, Apache Spark, Delta Lake, Scikit-learn
-  - Machine learning model development and optimization (machine vision, NLP, timeseries)
+- Machine learning model development and optimization (machine vision, NLP, timeseries)
     - Frameworks: Tensorflow, keras, Pytorch, Scikit-Learn, Spark-NLP, Spark-ML, Transformers
-  - Machine learning experimentation and serving to production
+- Machine learning experimentation and serving to production
     - Frameworks: MLflow
-  - Data warehousing 
+- Data warehousing 
     - Apache Hive on Databricks, Snowflake
-  - Streaming Applications
+- Streaming Applications
     - Apache Kafka, Spark Streaming
-  - Microsoft Azure
+- Microsoft Azure
     - Serverless appplications with Azure Functions
     - Azure Machine Learning, Databricks, Cognitive Services, etc...
     - Azure Kubernetes Services
     - Azure Storage
- 
-- 2 years research experience.
-  - NLP (text classification)
-  - Machine vision (classification, segmentation, detection)
-  - Signals (EEG signals, biometrics)
-  - Academic Writing
+
+### 2 years research experience.
+- NLP (text classification)
+- Machine vision (classification, segmentation, detection)
+- Signals (EEG signals, biometrics)
+- Academic Writing
 
 ## Portfolio
 
