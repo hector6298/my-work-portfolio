@@ -13,7 +13,7 @@ See the documentation here.
 
 ## Do-It-Yourself Projects
 
-- Garaje Door Controler Using Arduino Uno. (See the repo here)
-- Smart Electric Monitoring. (See the repo here)
+- Garaje Door Controler Using Arduino Uno. (See the repo [here](https://github.com/hector6298/Wifi-Garage-Door-Controller))
+- Smart Electric Monitoring. (See the repo [here](https://github.com/hector6298/smart_electric_monitoring))
 
 ![image](https://user-images.githubusercontent.com/41920808/133958963-2c8b24ff-6c32-496a-a2a4-223c093e42e8.png)
