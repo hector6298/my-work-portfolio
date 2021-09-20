@@ -34,5 +34,3 @@ This is a compilation of some of my most relevant works.
 - [Community service and hobby projects](https://github.com/hector6298/my-work-portfolio/tree/gh-pages/portfolio/Projects)
 - [Certificates](https://github.com/hector6298/my-work-portfolio/tree/gh-pages/portfolio/certificates)
 
-
-
