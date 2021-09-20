@@ -4,19 +4,19 @@ This repo contains code about the following subjects:
 
 **Machine Learning**
 
-- Exploratory Data Analysis
+- [Exploratory Data Analysis](https://github.com/hector6298/Deep-Learning-Collab-notebooks/blob/master/code%20samples/Machine%20Learning/exploratory_analysis/Yelp_DS_fake_reviews.ipynb)
 - Computer Vision
-    - Image Segmentation
+    - [Image Segmentation](https://github.com/hector6298/Deep-Learning-Collab-notebooks/blob/master/code%20samples/Machine%20Learning/image_segmentation/segmentation_sculptures6k.ipynb)
     - Image Classification
     - Keypoint Estimation
 - Natural Language Processing
-    - Text Classification with Transformers
-    - Text Classification with Doc2Vec and feature engineering
+    - [Text Classification with Transformers](https://github.com/hector6298/Deep-Learning-Collab-notebooks/blob/master/code%20samples/Machine%20Learning/NLP_text_classification/NLPTransformers.ipynb)
+    - [Text Classification with Doc2Vec and feature engineering](https://github.com/hector6298/Deep-Learning-Collab-notebooks/blob/master/code%20samples/Machine%20Learning/NLP_text_classification/Doc2VecAndFeatures.ipynb)
 
 **Data Engineering**
 
 - Streaming Application
-    - Twitter streaming with Apache Spark and Delta Lake
+    - [Twitter streaming with Apache Spark and Delta Lake](https://github.com/hector6298/Deep-Learning-Collab-notebooks/tree/master/code%20samples/Data%20Engineering/twitter_spark_streaming)
 
 # Exploratory Data Analysis
 
