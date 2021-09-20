@@ -1,6 +1,3 @@
-## Bio
-
-Information Technology Engineer. I love Machine learning and data science. I enjoy research, blogging, videogames and the gym. Feel free to browse through my portfolio!
 
 ## Experience 
 
