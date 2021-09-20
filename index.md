@@ -28,6 +28,11 @@
 
 This is a compilation of some of my most relevant works. 
 
+- [Code samples](https://github.com/hector6298/my-work-portfolio/tree/gh-pages/portfolio/code%20samples)
+- [Publications and manuscripts](https://github.com/hector6298/my-work-portfolio/tree/gh-pages/portfolio/Manuscripts)
+- [Graduation project](https://github.com/hector6298/my-work-portfolio/tree/gh-pages/portfolio/Graduation%20Project)
+- [Community service and hobby projects](https://github.com/hector6298/my-work-portfolio/tree/gh-pages/portfolio/Projects)
+- [Certificates](https://github.com/hector6298/my-work-portfolio/tree/gh-pages/portfolio/certificates)
 
 
 
