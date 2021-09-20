@@ -2,6 +2,8 @@
 This is a repository of code samples from past projects, experiments, and so forth.
 This repo contains code about the following subjects:
 
+**Machine Learning**
+
 - Exploratory Data Analysis
 - Computer Vision
     - Image Segmentation
@@ -10,6 +12,9 @@ This repo contains code about the following subjects:
 - Natural Language Processing
     - Text Classification with Transformers
     - Text Classification with Doc2Vec and feature engineering
+
+**Data Engineering**
+
 - Streaming Application
     - Twitter streaming with Apache Spark and Delta Lake
 
