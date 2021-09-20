@@ -8,6 +8,8 @@ This is some of the projects I have done, excluding publications and the graduat
 
 ![hamilton](https://user-images.githubusercontent.com/41920808/133958915-d320f543-91e9-434f-b630-e02133475ee3.png)
 
+See the documentation here.
+
 
 ## Do-It-Yourself Projects
 
