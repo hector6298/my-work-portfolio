@@ -1,5 +1,5 @@
 
-## Experience 
+##  :octocat: Experience 
 
 ### 1 year working experience as data scientist/engineer.
 - Data Gathering, cleaning, feature extraction and storage (text, image, structured data)
@@ -24,7 +24,7 @@
 - Signals (EEG signals, biometrics)
 - Academic Writing
 
-## Portfolio
+## :octocat:  Portfolio
 
 This is a compilation of some of my most relevant works. 
 
