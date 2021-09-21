@@ -51,4 +51,6 @@ This is a compilation of some of my most relevant works.
     <li><a href="https://github.com/hector6298/my-work-portfolio/tree/gh-pages/portfolio/code%20samples"><strong>Code samples</strong></a></li>
     <li><a href="https://github.com/hector6298/my-work-portfolio/tree/gh-pages/portfolio/Manuscripts"><strong>Publications and manuscripts</strong></a></li>
     <li><a href="https://github.com/hector6298/my-work-portfolio/tree/gh-pages/portfolio/Graduation%20Project"><strong>Graduation project</strong></a></li>
+    <li><a href="https://github.com/hector6298/my-work-portfolio/tree/gh-pages/portfolio/Projects"><strong>Community service and hobby projects</strong></a></li>
+    <li><a href="https://github.com/hector6298/my-work-portfolio/tree/gh-pages/portfolio/certificates"><strong>Certificates</strong></a></li>
 </ul>
