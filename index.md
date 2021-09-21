@@ -1,3 +1,12 @@
+## Portfolio
+
+This is a compilation of some of my most relevant works. 
+
+- [Code samples](https://github.com/hector6298/my-work-portfolio/tree/gh-pages/portfolio/code%20samples)
+- [Publications and manuscripts](https://github.com/hector6298/my-work-portfolio/tree/gh-pages/portfolio/Manuscripts)
+- [Graduation project](https://github.com/hector6298/my-work-portfolio/tree/gh-pages/portfolio/Graduation%20Project)
+- [Community service and hobby projects](https://github.com/hector6298/my-work-portfolio/tree/gh-pages/portfolio/Projects)
+- [Certificates](https://github.com/hector6298/my-work-portfolio/tree/gh-pages/portfolio/certificates)
 
 ## Experience 
 
@@ -37,20 +46,3 @@
 - Signals (EEG signals, biometrics)
 - Academic Writing
 
-## Portfolio
-
-This is a compilation of some of my most relevant works. 
-
-- [Code samples](https://github.com/hector6298/my-work-portfolio/tree/gh-pages/portfolio/code%20samples)
-- [Publications and manuscripts](https://github.com/hector6298/my-work-portfolio/tree/gh-pages/portfolio/Manuscripts)
-- [Graduation project](https://github.com/hector6298/my-work-portfolio/tree/gh-pages/portfolio/Graduation%20Project)
-- [Community service and hobby projects](https://github.com/hector6298/my-work-portfolio/tree/gh-pages/portfolio/Projects)
-- [Certificates](https://github.com/hector6298/my-work-portfolio/tree/gh-pages/portfolio/certificates)
-
-<ul class="downloads">
-    <li><a href="https://github.com/hector6298/my-work-portfolio/tree/gh-pages/portfolio/code%20samples"><strong>Code samples</strong></a></li>
-    <li><a href="https://github.com/hector6298/my-work-portfolio/tree/gh-pages/portfolio/Manuscripts"><strong>Publications and manuscripts</strong></a></li>
-    <li><a href="https://github.com/hector6298/my-work-portfolio/tree/gh-pages/portfolio/Graduation%20Project"><strong>Graduation project</strong></a></li>
-    <li><a href="https://github.com/hector6298/my-work-portfolio/tree/gh-pages/portfolio/Projects"><strong>Community service and hobby projects</strong></a></li>
-    <li><a href="https://github.com/hector6298/my-work-portfolio/tree/gh-pages/portfolio/certificates"><strong>Certificates</strong></a></li>
-</ul>
