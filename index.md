@@ -10,7 +10,7 @@ This is a compilation of some of my most relevant works.
 
 ## Experience 
 
-### Working experience as data scientist/engineer (1 year)
+### Work experience as data scientist/engineer (1 year)
 - Data Gathering, cleaning, feature extraction and storage (text, image, structured data)
     - Pandas
     - Apache Spark
