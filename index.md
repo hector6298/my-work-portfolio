@@ -28,6 +28,7 @@ This is a compilation of some of my most relevant works.
     - MLflow tracker
     - MLflow model registry
     - MLflow model serving
+    - Nvidia Triton
 - Data warehousing 
     - Apache Hive on Databricks
     - Snowflake
