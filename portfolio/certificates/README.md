@@ -7,9 +7,9 @@ This section holds all the certificates that were given to me either for online 
 
 ### 2021
 
-- Arizona State University Workshops 2021: Certificate for organizing a series of three lectures introducing Convolutional Neural Nets, input pipelines, and performance metrics. (2021)
+- Arizona State University Workshops 2021: Certificate for organizing a series of three lectures introducing Convolutional Neural Nets, input pipelines, and performance metrics. 
 
-- Nodel Trainer: For giving a tutorial about embedded analytics. (2021)
+- Nodel Trainer: For giving a tutorial about embedded analytics. 
 
 - Hamilton Tech mentor: Community service project to motivate middle school students from rural areas of Imbabura, Ecuador to follow computer science-related fields.
 
@@ -17,15 +17,15 @@ This section holds all the certificates that were given to me either for online 
 
 - IEEE Week at Yachay Tech: Organizer and participant on a week-long series of conferences about Yachay Tech's IEEE student branch.
 
-- IEEE HackTech COVID Finalist: Leader for the project ECU_AI_COVID_SCAN. Detecting COVID-19 related symptoms using CNNs adn chest x-rays. (2020)
+- IEEE HackTech COVID Finalist: Leader for the project ECU_AI_COVID_SCAN. Detecting COVID-19 related symptoms using CNNs adn chest x-rays.
 
-- TICEC2020 conference: For presenting my research accepted at that conference. (2020)
+- TICEC2020 conference: For presenting my research accepted at that conference.
 
-- UMA Research Stance: A month long research stance about Vehicle Speed Estimation Systems Using Cameras. The project would continue for a year after this stance in Ecuador. See my graduation project. (2020)
+- UMA Research Stance: A month long research stance about Vehicle Speed Estimation Systems Using Cameras. The project would continue for a year after this stance in Ecuador. See my graduation project.
 
 ### 2019
 
-- INAOE Research Stance: A month long research stance about biometrics using Electroencephalography (EEG). (2019)
+- INAOE Research Stance: A month long research stance about biometrics using Electroencephalography (EEG).
 
 - Yachay Tech AI Club coding competitions organizer: 2019.
 
