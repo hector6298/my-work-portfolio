@@ -36,7 +36,7 @@ This is a compilation of some of my most relevant works.
     - Apache Kafka
     - Spark Streaming
 - Microsoft Azure
-    - Serverless appplications with Azure Functions
+    - Serverless applications with Azure Functions
     - Azure Machine Learning, Databricks, Cognitive Services, etc...
     - Azure Kubernetes Services
     - Azure Storage
