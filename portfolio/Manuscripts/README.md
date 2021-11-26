@@ -13,6 +13,8 @@ This section holds the manuscripts of my research projects. Currently, all of th
 ## Manuscripts of Works Recently Submitted
 
 - [COVID-19 Fake News Detection Using Joint Doc2Vec and Text Features with PCA](https://github.com/hector6298/Deep-Learning-Collab-notebooks/blob/master/Manuscripts/Preprints%20-%20Submitted%20Work/COVID_19_Fake_News_Detection_Using_Joint_Doc2Vec_and_Text_Features_with_PCA.pdf).
+- [Evaluation of Features and Channels of ElectroencephalographicSignals for Biometric Systems]()
+- [Vehicle Speed Estimation Using Computer Vision And Evolutionary Camera Calibration]()
 
 
 ## Other Projects
