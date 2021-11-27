@@ -11,7 +11,7 @@ This section holds the manuscripts of my research projects. Currently, all of th
 
 ## Manuscripts of Accepted Works
 
-- [Vehicle Speed Estimation Using Computer Vision And Evolutionary Camera Calibration](https://github.com/hector6298/my-work-portfolio/blob/gh-pages/portfolio/Manuscripts/Preprints%20-%20Submitted%20Work/LXAI_Neurips2021_Hector_Evolutionary.pdf)
+- [Vehicle Speed Estimation Using Computer Vision And Evolutionary Camera Calibration](https://github.com/hector6298/my-work-portfolio/blob/gh-pages/portfolio/Manuscripts/Preprints%20-%20Submitted%20Work/LXAI_Neurips2021_Hector_Evolutionary.pdf). LatinX on AI workshop NeuIPS 2021.
 
 ## Manuscripts of Submitted Works
 
