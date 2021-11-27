@@ -11,12 +11,12 @@ This section holds the manuscripts of my research projects. Currently, all of th
 
 ## Manuscripts of Accepted Works
 
-- [Vehicle Speed Estimation Using Computer Vision And Evolutionary Camera Calibration]()
+- [Vehicle Speed Estimation Using Computer Vision And Evolutionary Camera Calibration](https://github.com/hector6298/my-work-portfolio/blob/gh-pages/portfolio/Manuscripts/Preprints%20-%20Submitted%20Work/LXAI_Neurips2021_Hector_Evolutionary.pdf)
 
 ## Manuscripts of Submitted Works
 
 - [COVID-19 Fake News Detection Using Joint Doc2Vec and Text Features with PCA](https://github.com/hector6298/Deep-Learning-Collab-notebooks/blob/master/Manuscripts/Preprints%20-%20Submitted%20Work/COVID_19_Fake_News_Detection_Using_Joint_Doc2Vec_and_Text_Features_with_PCA.pdf).
-- [Evaluation of Features and Channels of ElectroencephalographicSignals for Biometric Systems]()
+- [Evaluation of Features and Channels of ElectroencephalographicSignals for Biometric Systems](https://github.com/hector6298/my-work-portfolio/blob/gh-pages/portfolio/Manuscripts/Preprints%20-%20Submitted%20Work/Feature_and_Channel_Selection.pdf)
 
 
 
