@@ -9,15 +9,13 @@ This section holds the manuscripts of my research projects. Currently, all of th
 - [Pre-processing and Handling Unbalanced Data in CNN for Improving Automated Detection of COVID-19 Cases: Preliminary Results](https://github.com/hector6298/Deep-Learning-Collab-notebooks/blob/master/Manuscripts/Preprints%20-%20Published%20Work/Covid19_CNN_detection.pdf). (Link to official publication [here](https://www.springerprofessional.de/en/pre-processing-and-handling-unbalanced-data-in-cnn-for-improving/18582236))
 - [The Impact of Histogram Equalization and Color Mapping on ResNet-34's Overall Performance for COVID-19 Detection.](https://github.com/hector6298/Deep-Learning-Collab-notebooks/blob/master/Manuscripts/Preprints%20-%20Published%20Work/Covid19_CNN_classification_color_filters.pdf) (Link to official publication [here](https://dl.acm.org/doi/fullHtml/10.1145/3456146.3456154))
 
-## Manuscripts of Accepted Works
+- - [Vehicle Speed Estimation Using Computer Vision And Evolutionary Camera Calibration](https://github.com/hector6298/my-work-portfolio/blob/gh-pages/portfolio/Manuscripts/Preprints%20-%20Submitted%20Work/LXAI_Neurips2021_Hector_Evolutionary.pdf). LatinX on AI workshop NeuIPS 2021.
 
-- [Vehicle Speed Estimation Using Computer Vision And Evolutionary Camera Calibration](https://github.com/hector6298/my-work-portfolio/blob/gh-pages/portfolio/Manuscripts/Preprints%20-%20Submitted%20Work/LXAI_Neurips2021_Hector_Evolutionary.pdf). LatinX on AI workshop NeuIPS 2021.
+- [COVID-19 Fake News Detection Using Joint Doc2Vec and Text Features with PCA](https://github.com/hector6298/Deep-Learning-Collab-notebooks/blob/master/Manuscripts/Preprints%20-%20Submitted%20Work/COVID_19_Fake_News_Detection_Using_Joint_Doc2Vec_and_Text_Features_with_PCA.pdf).
 
 ## Manuscripts of Submitted Works
 
-- [COVID-19 Fake News Detection Using Joint Doc2Vec and Text Features with PCA](https://github.com/hector6298/Deep-Learning-Collab-notebooks/blob/master/Manuscripts/Preprints%20-%20Submitted%20Work/COVID_19_Fake_News_Detection_Using_Joint_Doc2Vec_and_Text_Features_with_PCA.pdf).
 - [Evaluation of Features and Channels of ElectroencephalographicSignals for Biometric Systems](https://github.com/hector6298/my-work-portfolio/blob/gh-pages/portfolio/Manuscripts/Preprints%20-%20Submitted%20Work/Feature_and_Channel_Selection.pdf)
-
 
 
 ## Other Projects
